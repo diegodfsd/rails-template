@@ -1,0 +1,4 @@
+rails-template
+==============
+
+Rails Template
