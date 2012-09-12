@@ -5,8 +5,8 @@ Rails Template
 
 Template Rails application with some default settings
 
-IMPORTANT
---------------
+### IMPORTANT
+
 Don't forget of do that:
 
 * Replace all occurrences of "RailsTemplate" by name of the your application
