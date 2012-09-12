@@ -1,0 +1,14 @@
+defaults: &defaults
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+  username:
+  password:
+
+development:
+  <<: *defaults
+  database: RailsTemplate_development
+
+test:
+  <<: *defaults
+  database: RailsTemplate_test

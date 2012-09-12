@@ -1,0 +1,14 @@
+/.bundle
+/log/*.log
+*.sassc
+.sass-cache/
+capybara-*.html
+.rspec
+/tmp/*
+/public/system/*
+/spec/tmp/*
+vendor/ruby
+/vendor/bundle
+bin
+.idea/
+config/database.yml
