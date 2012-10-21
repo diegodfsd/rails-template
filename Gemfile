@@ -18,6 +18,10 @@ group :development, :test do
   gem 'awesome_print' , :require => false
   gem 'pry'           , :require => false
   gem 'rspec-rails'   , '~> 2.0'
+  gem 'rb-fsevent' #to make use of file change events and don't rely on polling
+  gem 'guard'
+  gem 'guard-rspec'
+  gem 'growl'
 end
 
 group :test do
